@@ -6,4 +6,5 @@ int main()
     printf("hello ics\n");
     printf("Hello, world!\n");
     printf("go");
+    printf("Come");
 }
